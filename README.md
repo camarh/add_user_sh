@@ -32,7 +32,7 @@
 > Clone the repo with the following from a terminal :
 
 ```Bash
-$ git clone https://github.com/camarh/add_user.sh
+$ git clone https://github.com/camarh/add_user
 ```
 
 <br/>
