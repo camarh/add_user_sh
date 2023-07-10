@@ -34,12 +34,17 @@
 ```Bash
 git clone https://github.com/camarh/add_user_sh
 ```
+<br/>
 
+> make the file executable:
+```Bash
+chmod +x add_user_sh/add_user.sh
+```
 <br/>
 
 > From a terminal, run the script with sudo :
 ```Bash
-sudo ./add_user.sh
+sudo add_user_sh/add_user.sh
 ```
 [![visual_table](img/visual.png)](https://github.com/camarh/domain_extractor/stargazers)
 
