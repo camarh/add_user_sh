@@ -63,7 +63,7 @@ $ sudo ./add_user.sh
 
 #
 If you enjoy this project, give it a
-[![golden_star](img/golden_star.png)](https://github.com/camarh/domain_extractor/stargazers)
+[![golden_star](img/star.png)](https://github.com/camarh/domain_extractor/stargazers)
 
 
 #
