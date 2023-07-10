@@ -32,14 +32,14 @@
 > Clone the repo with the following from a terminal :
 
 ```Bash
-$ git clone https://github.com/camarh/add_user_sh
+git clone https://github.com/camarh/add_user_sh
 ```
 
 <br/>
 
 > From a terminal, run the script with sudo :
 ```Bash
-$ sudo ./add_user.sh
+sudo ./add_user.sh
 ```
 [![visual_table](img/visual.png)](https://github.com/camarh/domain_extractor/stargazers)
 
